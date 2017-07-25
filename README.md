@@ -1,0 +1,1 @@
+# Device-Query-Test-CUDA
